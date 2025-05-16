@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sông sâu tĩnh lặng lúa chín cuối đầu
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+26/4/2024
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Người viết: Nguyễn Anh Kiệt.
 
-What else do you need?
+2 ngày trước, tôi với Phạm Ngọc Dũng ngồi trên thư viện sau khi thi kỹ thuật lập trình xong, với mục đích là hắn sẽ chỉ tôi học lý. Đang ngồi chill chill thì bỗng hắn đưa cho tôi một lời đề nghị không thể chối từ: “Ê, mày viết blog được á, tao thấy mày có nhiều idea”. Đúng là một con ác quỷ, sở trường của hắn là làm sao nhãng tôi khi tôi đang tập trung. Vậy là suốt buổi chiều và tối hôm đó tôi chẳng học được chữ nào, và cả ngày hôm sau cũng vậy. Đầu tôi toàn nghĩ tới chuyện viết Blog. May là sáng nay tôi thi ổn. Tôi đã nghĩ tới việc làm một trang web để viết cái Blog này nhưng mà tôi lười (mặc dù tôi học công nghệ thông tin), tôi sợ làm xong con web hầm hố rồi lại hết hứng viết thì éo le lắm. Thế là tôi viết trên Google Drive (với tôi thì hình thức cũng không quan trọng mấy) nên cái này có thể gọi là Drivelog thay cho Weblog.
 
-### My story
+Mục đích của Blog này: Mục đích trực tiếp nhất là hiện tại tôi đang rất có hứng với việc viết Blog nên tôi viết để thỏa mãn bản thân. Còn việc tôi có hứng là vì một số lý do như sau:
+Tôi có rất nhiều thắc mắc trong các lĩnh vực tôi tìm hiểu và trong cuộc sống. Và nhiều khi tôi chỉ dừng lại ở thắc mắc -.- Việc viết Blog này để công khai các thắc mắc của tôi có vẻ sẽ khiến tôi có động lực hơn để tìm hiểu về chúng. Tại sao nhỉ? Có vẻ con người chúng ta không thích việc người khác biết mình không biết cái gì. Mà tại sao con người lại không thích điều đó nhỉ? Có vẻ là để giữ tự trọng hay cái “tôi”. Mà cái “tôi” là cái gì nhỉ? Tại sao chúng ta lại tự trọng và có cái tôi? Việc này có lợi thế gì trong tiến hóa? (Tôi vừa nêu vài ví dụ về những thứ tôi thắc mắc nhưng chưa tìm hiểu).
+Tôi có khá nhiều suy nghĩ mà tôi cảm nhận là nó hơi trừu tượng, và đôi lúc tôi cũng để nó dưới dạng cảm giác chứ không cố biểu diễn nó bằng ngôn ngữ. Tôi nghĩ việc dùng ngôn ngữ viết cụ thể những thứ tôi nghĩ sẽ làm chắc chắn hơn các suy nghĩ đó (hoặc có thể trong quá trình viết tôi nhận ra có gì đó không đúng với suy nghĩ đó). Như anh Tiến Hoàng đã nói: “Viết nó raaaaaa”. Ngoài ra, việc viết các ý tưởng của tôi ra và công khai nó khiến tôi cẩn thận hơn trong việc suy nghĩ vì cảm giác sẽ có nhiều người bắt bẻ tôi. Thỉnh thoảng tôi thấy, đôi lúc việc nói chuyện với người giỏi hơn mình khiến mình giỏi hơn không hoàn toàn là do những thứ tiếp thu được từ người đó mà một phần do sự thận trọng và tự phản biện của bản thân mình khi nói chuyện với họ, làm suy nghĩ mình chắt chiu và chi tiết hơn.
+Tôi viết các suy nghĩ của tôi như một cuốn nhật ký suy nghĩ để 10 năm sau xem lại thử suy nghĩ tôi có khác với bây giờ nhiều không?
+Chia sẻ mấy suy nghĩ “dị hợm” của tôi cho mọi người, tôi thích vậy, và có thể việc này giúp tôi tìm được thêm nhiều người có cùng tần số với mình.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Tôi chỉ viết các suy nghĩ của mình, và tôi không nói là tôi chắc chắn nó đúng (thực ra thì trên đời làm gì có thứ chắc chắn đúng hay sai (câu vừa rồi cũng chỉ là một suy nghĩ của tôi thôi)). Tôi biết những suy nghĩ của tôi rất có khả năng sẽ đụng chạm hay làm khó chịu khá nhiều người. Nếu mọi người có hứng thú với Blog của tôi, hãy nói điều đó với tôi, tôi rất cảm kích điều này, hihi. Trong trường hợp tôi viết gì đó không rõ ràng hoặc quá khó hiểu, hay mọi người có góp ý gì đó, tôi rất muốn mọi người trao đổi trực tiếp với tôi. Tôi rất vui và sẵn lòng nghe nhận các ý kiến khác từ mọi người. Việc trao đổi, truyền đạt ý tưởng cho người khác sẽ giúp tôi rất nhiều trong việc củng cố và phản biện lại suy nghĩ của chính tôi, và tôi cũng có cơ hội được nghe ý kiến từ mọi người. Nếu mọi người đã quyết định đọc Blog của tôi, xin hãy kiên trì đọc hết tất cả các ý tưởng trong tất cả các mục, vì chúng thật sự rất liên quan với nhau. Tôi cảm thấy việc phân loại rõ ràng một ý tưởng vào đúng một phạm trù và sắp xếp các ý tưởng theo một trật tự hợp lí là khá khó khăn. Mặc dù vậy, tôi sẽ cố liên kết các bài viết lại với nhau hết mức có thể.
+
+Có vẻ hơi khó diễn tả, tôi thật sự nhìn nhận rất nghiêm túc các suy nghĩ và những ý tưởng có vẻ “lập dị” đó, và tôi ứng dụng nó vào cuộc sống, luôn suy nghĩ, xem nó là một phần cuộc sống và những ý tưởng đó thay đổi rất nhiều các quyết định của tôi trong cuộc sống. Có nhiều thứ tôi đã nhìn nhận một cách rất tự nhiên nhưng khi tôi nói ra với người khác thì họ lại xem nó là một ý tưởng hay. Tôi không biết việc suy nghĩ quá nhiều như vậy là tốt hay xấu cho tôi (theo tôi thì tốt xấu cũng chỉ là chủ quan thôi), hiện tại thì tôi thấy có vẻ tốt nhưng không biết sau này thì sao. Có rất nhiều ý tưởng trong sách tôi đã rất “thấm”, đến nỗi thỉnh thoảng tôi có thể quên mất là ý tưởng đó đã được đọc trong sách và tôi xem ý tưởng đó là của tôi, nên có thể trong nhiều trường hợp tôi sẽ quên đề cập về nguồn của những ý tưởng mà tôi viết, mong mọi người thông cảm.
+
+Và cuối cùng, có thể việc công khai cái blog này là quyết định sai lầm nhất cuộc đời của tôi.
+
