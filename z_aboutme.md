@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Sông sâu tĩnh lặng lúa chín cuối đầu
+subtitle: Sông sâu tĩnh lặng, lúa chín cuối đầu
 ---
 
 26/4/2024
