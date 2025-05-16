@@ -20,11 +20,11 @@ author: Captain Jack Sparrow
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "z_aboutme"
   Resources:
-    - Triết học: "triethoc"
-    - Khoa học: "khoahoc"
-    - Sách: "sach"
+    - Triết học: "z_triethoc"
+    - Khoa học: "z_khoahoc"
+    - Sách: "z_sach"
   # Author's home: "https://deanattali.com"
 
 ################
