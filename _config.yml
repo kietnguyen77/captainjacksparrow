@@ -21,11 +21,9 @@ author: Captain Jack Sparrow
 
 navbar-links:
   About Me: "z_aboutme"
-  Resources:
-    - Triết học: "z_triethoc"
-    - Khoa học: "z_khoahoc"
-    - Sách: "z_sach"
+  Sách: "z_sach"
   Tags: "tags"
+  Ý tưởng xàm: "z.xam"
   # Author's home: "https://deanattali.com"
 
 ################
